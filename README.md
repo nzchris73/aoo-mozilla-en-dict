@@ -36,7 +36,7 @@ I, **Marco Pinto**, actively maintain all six primary variants of English dictio
 - **British English** (`en_GB`)
 - **British English** (`en_GB-oxendict`) (Oxford English Dictionary)
 - **South African English** (`en_ZA`)
-- **American English** (`en_US`) (alt) *(it took me one year of careful preparation before the initial U.S. release.)*
+- **American English** (`en_US`) (alt) *(it took me one year of careful preparation before the initial U.S. release)*
 - **Canadian English** (`en_CA`) (alt)
 - **Australian English** (`en_AU`) (alt)
 
