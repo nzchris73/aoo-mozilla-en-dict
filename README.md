@@ -88,6 +88,22 @@ The licences for the dictionaries can be found at the bottom of the file: `READM
 
 ---
 
+## Canadian English and the -ise/-ize Question
+
+Canadian English is probably the most difficult variety to support because it combines features from both British and U.S. English.
+
+In general, modern Canadian English often aligns with British **-ise** spellings, although both **-ise** and **-ize** can be found depending on the source, publisher, or style guide.
+
+Similarly, modern British English tends to prefer **-ise** spellings, although **-ize** remains common in some scientific, academic, and Oxford-style publications.
+
+As a result, the Canadian dictionary may not always accept every **-ize** form that some users expect.
+
+I am doing my best to balance the different spelling conventions found in contemporary Canadian English.
+
+Users who prefer **-ize** spellings may wish to use the Oxford English Dictionary **(OED)** variant included in my LibreOffice extension, which follows British spelling conventions while preferring **-ize** endings.
+
+---
+
 ## Suggesting Words and Corrections
 
 Please verify the wordlist (`.txt` file) within the latest dictionary release before submitting suggestions.
