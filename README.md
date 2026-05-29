@@ -102,6 +102,8 @@ I am doing my best to balance the different spelling conventions found in contem
 
 Users who prefer **-ize** spellings may wish to use the Oxford English Dictionary **(OED)** variant included in my LibreOffice extension, which follows British spelling conventions while preferring **-ize** endings.
 
+**EN_CA UPDATE:** Starting on 1 September 2026, the Canadian dictionary will accept both -ise and -ize verb forms, together with commonly used U.S. medical terms.
+
 ---
 
 ## Suggesting Words and Corrections
