@@ -51,7 +51,7 @@ Dwayne Bailey previously maintained the `en_ZA` dictionary but has since ceased 
 
 ## Release Cycle
 
-Regular dictionary updates are released three times per year — on the **first day of January, May, and September**.
+Regular dictionary updates are released three times per year — on the **first day of January, May, and September** — unless there is something urgent to address, in which case a release may be published earlier.
 
 Monthly releases are no longer feasible due to the considerable workload associated with maintaining six dictionary variants.
 
