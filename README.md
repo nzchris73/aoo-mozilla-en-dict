@@ -55,7 +55,7 @@ Language is a shared human good. It should remain free, open, and accessible to 
 
 My main goal is to make these English dictionaries freely available, accurate, and inclusive for all users. Everyone should have equal access to words and spelling tools, whether they are the owner of a multinational company or the person sweeping the street.
 
-These dictionaries are maintained with the belief that language belongs to humanity as a whole. It is a tool for learning, communication, dignity, and opportunity. For that reason, this project is kept free, regularly updated, and available across English variants, so that anyone can write and use English with confidence.
+These dictionaries are maintained with the belief that language belongs to humankind as a whole. It is a tool for learning, communication, dignity, and opportunity. For that reason, this project is kept free, regularly updated, and available across English variants, so that anyone can write and use English with confidence.
 
 I live a simple and modest life, choosing not to monetise this work so that everyone can benefit from it freely. However, if you fork these dictionaries or use them in your own projects, please credit this project somewhere visible. This work is the result of many years of maintenance, correction, expansion, and careful review; it should not be presented as someone else’s work after only adding or removing a small number of words.
 
