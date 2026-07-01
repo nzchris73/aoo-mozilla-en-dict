@@ -13,10 +13,8 @@ You will need to update it manually in the future.
 Supported applications
 ----------------------
 The legacy add-on supports at least the following:
- - Mozilla Firefox
- - Firefox for Android
- - Mozilla Thunderbird
- - SeaMonkey
+ - Mozilla: Firefox/Thunderbird/SeaMonkey
  - Epyrus
  - Pale Moon
+ - Tor Browser
  - Waterfox
