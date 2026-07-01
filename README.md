@@ -101,21 +101,15 @@ The licences for the dictionaries can be found at the bottom of the file: `READM
 
 ---
 
-## Canadian English and the -ise/-ize Question
+## Canadian English and the -ise/-ize Question (1 Jul 2026)
 
-Canadian English is probably the most difficult variety to support because it combines features from both British and U.S. English.
+Canadian English is probably the most difficult variety of English to support because it combines features from both British and U.S. English.
 
-In general, modern Canadian English often aligns with British **-ise** spellings, although both **-ise** and **-ize** can be found depending on the source, publisher, or style guide.
+To better reflect contemporary Canadian usage and address user feedback, the Canadian dictionary now adopts a mixed approach, combining selected British and U.S. forms where appropriate.
 
-Similarly, modern British English tends to prefer **-ise** spellings, although **-ize** remains common in some scientific, academic, and Oxford-style publications.
+The dictionary now accepts both -ise and -ize verb forms, includes commonly used U.S. medical and scientific terms, and better reflects the mixed British/U.S. nature of modern Canadian English.
 
-As a result, the Canadian dictionary may not always accept every **-ize** form that some users expect.
-
-I am doing my best to balance the different spelling conventions found in contemporary Canadian English.
-
-Users who prefer **-ize** spellings may wish to use the Oxford English Dictionary **(OED)** variant included in my LibreOffice extension, which follows British spelling conventions while preferring **-ize** endings.
-
-**EN_CA UPDATE:** Starting on 1 September 2026, the Canadian dictionary will accept both -ise and -ize verb forms, together with commonly used U.S. medical terms.
+The goal is to reduce unnecessary spelling warnings while supporting the widest possible range of Canadian users.
 
 ---
 
