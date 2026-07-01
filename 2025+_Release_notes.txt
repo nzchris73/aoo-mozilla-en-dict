@@ -1,4 +1,26 @@
-﻿MAGP 2026-05-01
+﻿MAGP 2026-07-01
+Major updates to the Canadian and US dictionaries.
+
+Removed Americanisms from the GB dictionary.
+
+Removed Britishisms from the US dictionary.
+
+Added MAXNGRAMSUGS 7 to keep spelling suggestions more focused and reduce noise.
+
+Switched to FLAG UTF-8 after running out of flags.
+
+Added flag “í” for American English -ist, -ist's and -ists forms (single-L words).
+
+Added ' to WORDCHARS to recognise words such as 'gainst.
+
+Added REP entry: "teh" → "the".
+
+Added possessive forms for most -ness nouns.
+
+Added numerous derived forms, including plurals and possessives.
+
+
+MAGP 2026-05-01
 Flag enhancements, mainly for U.S. words.
 
 
