@@ -41,6 +41,8 @@ I, **Marco Pinto**, actively maintain all six primary variants of English dictio
 - **Canadian English** (`en_CA`) (alt)
 - **Australian English** (`en_AU`) (alt)
 
+To learn more about Marco Pinto, his background, projects, and contributions to open-source language tools, read the full article at [marcoagpinto.com](https://marcoagpinto.com).
+
 Kevin Atkinson maintains independent versions of `en_GB`, `en_US`, `en_CA`, and `en_AU`, which have been valuable points of comparison during the development and evaluation of these dictionaries. For more details, see:
 
 - [Kevin Atkinson's GitHub](https://github.com/en-wl/wordlist)  
